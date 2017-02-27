@@ -1,0 +1,25 @@
+{
+  "last": "Default",
+  "clientToken": "7aefdaf7-161f-41fe-83a9-414dc9738bfc",
+  "enableShadow": false,
+  "decorated": false,
+  "enableAnimation": true,
+  "theme": 0,
+  "logintype": 0,
+  "downloadtype": 0,
+  "configurations": {
+    "Default": {
+      "name": "Default",
+      "selectedMinecraftVersion": "1.7.10-Forge10.13.2.1291",
+      "gameDir": ".\\.minecraft\\"
+    }
+  },
+  "auth": {
+    "yggdrasil": {},
+    "offline": {
+      "uuidMap": {},
+      "IAuthenticator_UserName": ""
+    },
+    "skinme": {}
+  }
+}
